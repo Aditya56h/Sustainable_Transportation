@@ -26,4 +26,4 @@ This repository contains the implementation of a pothole detection system using 
 3. **Inference on Videos**:
    - Use the trained model (`best.pt`) to run inference on real-world pothole detection videos.
    - Analyze the results and visualize the detected potholes.
-
+   - WHILE USING CODE READ README FILE AND DOWNLOAD ZIP FILE FROM THE GOOGLE DRIVE LINK
